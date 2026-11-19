@@ -335,7 +335,7 @@
   margin-bottom: 1rem;
 }
 .file-inputt::file-selector-button {
-  background-color: #172e6e;
+  background-color: #176e17;
   color: white;
   padding: 10px 16px;
   border: none;
@@ -345,7 +345,7 @@
 }
 
 .file-inputt::file-selector-button:hover {
-  background-color: #607ed2;
+  background-color: #60d27e;
 }
 /* =========================================================
    Bulles compactes, façon messagerie

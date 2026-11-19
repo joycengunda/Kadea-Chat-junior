@@ -355,8 +355,8 @@ html:has(.lp) {
   border-radius: 26px;
   color: #dbe5ff;
   background:
-    radial-gradient(700px 360px at 90% -20%, rgba(122, 162, 255, 0.35), transparent 60%),
-    linear-gradient(160deg, #0a1330 0%, #0d1b44 55%, #132a66 100%);
+    radial-gradient(700px 360px at 90% -20%, rgba(129, 255, 122, 0.35), transparent 60%),
+    linear-gradient(160deg, #0a3014 0%, #0d4410 55%, #13661b 100%);
 }
 .lp-secure__grid {
   display: grid;

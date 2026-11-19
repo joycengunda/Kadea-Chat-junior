@@ -13,30 +13,30 @@
     'Plus Jakarta Sans Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
     Arial, sans-serif;
 
-  /* Fond et texte : un blanc légèrement bleuté */
-  --paper: #f2f4f9;
+  /* Fond et texte */
+  --paper: #f2f7f4;
   --card: #ffffff;
-  --ink: #0f172a;
-  --ink-2: #2b3650;
-  --muted: #55627a;
-  --subtle: #93a0b8;
-  --line: #e2e7f0;
-  --line-2: #d0d8e6;
+  --ink: #0f2419;
+  --ink-2: #294235;
+  --muted: #587063;
+  --subtle: #91a99c;
+  --line: #e0ebe4;
+  --line-2: #ceddd4;
 
   /* Boutons et champs */
-  --btn: #1e3a8a;
+  --btn: #14532d;
   --btn-fg: #ffffff;
-  --ring: rgba(30, 58, 138, 0.28);
+  --ring: rgba(20, 83, 45, 0.28);
   --field: #ffffff;
-  --ok: #18794e;
+  --ok: #16834d;
 
   /* Identité Kadea Chat */
-  --brand: #1e3a8a;
-  --brand-strong: #172e6e;
-  --brand-soft: #dfe7fb;
-  --bubble-in: #97a7cf;
-  --bubble-out: #dfe7fb;
-  --bubble-ink: #0f172a;
+  --brand: #14532d;
+  --brand-strong: #0f3d22;
+  --brand-soft: #dcefe3;
+  --bubble-in: #9abca8;
+  --bubble-out: #dcefe3;
+  --bubble-ink: #0f2419;
   --danger: #b42318;
 
   --r: 10px;
@@ -45,27 +45,29 @@
 }
 
 :root[data-theme='dark'] {
-  --paper: #0a1020;
-  --card: #101a2e;
-  --ink: #e6ebf7;
-  --ink-2: #c0c9de;
-  --muted: #8896b3;
-  --subtle: #55627f;
-  --line: #1a2540;
-  --line-2: #263459;
+  --paper: #07140d;
+  --card: #0d2116;
+  --ink: #e5f3e9;
+  --ink-2: #bdd3c5;
+  --muted: #829d8c;
+  --subtle: #536d5e;
+  --line: #183325;
+  --line-2: #264b35;
 
-  --btn: #7aa2ff;
-  --btn-fg: #0a1630;
-  --ring: rgba(122, 162, 255, 0.32);
-  --field: #0c1426;
+  /* Boutons et champs */
+  --btn: #4ade80;
+  --btn-fg: #06200f;
+  --ring: rgba(74, 222, 128, 0.32);
+  --field: #0a1b11;
   --ok: #3ecf8e;
 
-  --brand: #7aa2ff;
-  --brand-strong: #a3bdff;
-  --brand-soft: #172a55;
-  --bubble-in: #17233b;
-  --bubble-out: #1f3a78;
-  --bubble-ink: #e6ebf7;
+  /* Identité Kadea Chat */
+  --brand: #4ade80;
+  --brand-strong: #86efac;
+  --brand-soft: #123d25;
+  --bubble-in: #142d20;
+  --bubble-out: #1d5c36;
+  --bubble-ink: #e5f3e9;
   --danger: #f97066;
 
   color-scheme: dark;
